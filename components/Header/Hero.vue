@@ -56,10 +56,8 @@ export default {
 				}
 				.author-name-wrap{
 					margin-left: 1em;
-					// background: maroon;
 					display: flex;
 					flex-direction: column;
-					// align-items: center;
 					justify-content: center;
 					.author-name-hero{
 						font-family: $poppins;
